@@ -1,3 +1,6 @@
+[![License: Free for Personal Use – Commercial Use Requires Permission](https://img.shields.io/badge/License-Free%20for%20Personal%20Use%20--%20Commercial%20Use%20Requires%20Permission-blue.svg)](./LICENSE)
+
+
 # Mtaanimation
 
 This repository contains all **media assets** used on the official **[MTAANIMATION](https://mtaanimation.com)** website.

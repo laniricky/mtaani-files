@@ -22,9 +22,9 @@ All files in this repository are referenced directly from the main website hoste
 
 The media files here are used in various parts of the site, including:
 
-* The homepage animation background
-* Project previews and galleries
-* Contact and portfolio sections
+* The homepage background
+* Project previews and Characters
+* Episodes and Character sections
 
 Each image file (e.g. `frame_00001.png`, `frame_00459.png`) represents a visual element that contributes to the site’s animation sequences and visual storytelling.
 

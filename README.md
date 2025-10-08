@@ -1,4 +1,4 @@
-# Mtaani Files
+# Mtaanimation
 
 This repository contains all **media assets** used on the official **[MTAANIMATION](https://mtaanimation.com)** website.
 
